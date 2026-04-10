@@ -1,0 +1,4 @@
+﻿
+_worktrees/
+reports/runs/*.log
+reports/runs/*.tmp
